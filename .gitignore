@@ -1,0 +1,4 @@
+cache
+ejabberd_data/
+docker-compose.yml
+Dockerfile
