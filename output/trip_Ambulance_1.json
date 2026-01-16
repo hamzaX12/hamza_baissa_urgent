@@ -1,0 +1,26 @@
+{
+  "agent_name": "Ambulance_1",
+  "start_node": 98,
+  "end_node": 11,
+  "path": [
+    98,
+    120,
+    133,
+    63,
+    221,
+    47,
+    11
+  ],
+  "traffic_lights": [
+    120,
+    133,
+    63,
+    221,
+    47
+  ],
+  "all_hospitals": [
+    11,
+    227,
+    186
+  ]
+}
